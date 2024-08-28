@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "Hack-Regular";
+  src: local("Hack-Regular"), url("./assets/fonts/hack/Hack-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Hack-Bold";
+  src: local("Hack-Bold"), url("./assets/fonts/hack/Hack-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Hack-Italic";
+  src: local("Hack-Italic"), url("./assets/fonts/hack/Hack-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Hack-BoldItalic";
+  src: local("Hack-BoldItalic"), url("./assets/fonts/hack/Hack-BoldItalic.ttf");
+}
+
+/* Regular */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Bold */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-Bold.ttf")
+    format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Light */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-Light.ttf")
+    format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Medium */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-Medium.ttf")
+    format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Retina */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-Retina.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: "FiraCode Nerd Font";
+  src: url("./assets/fonts/firacode/FiraCodeNerdFontMono-SemiBold.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
